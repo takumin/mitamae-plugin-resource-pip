@@ -1,0 +1,1 @@
+# mitamae-plugin-resource-pip
